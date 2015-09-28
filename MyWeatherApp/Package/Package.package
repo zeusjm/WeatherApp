@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="5ff67a71-7624-48df-9785-bd880130ce17" 
+        solutionId="5ff67a71-7624-48df-9785-bd880130ce17" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="MyWeatherApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="1f577fca-f5d4-4426-a704-704ad2774058" />
+  </features>
+</package>
